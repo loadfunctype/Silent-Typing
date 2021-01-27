@@ -1,2 +1,2 @@
 # SilentTyping
-silent typing for powercord
+ Silent typing for powercord
